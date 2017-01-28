@@ -10,6 +10,7 @@ package proyectointegrador1;
  * @author educacionit
  */
 public class Persona {
+
     String normbre;
     String apellido;
     String numeroDocumento;

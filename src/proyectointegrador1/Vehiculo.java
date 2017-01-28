@@ -10,6 +10,7 @@ package proyectointegrador1;
  * @author educacionit
  */
 public class Vehiculo {
+
     private int alto;
     private int ancho;
     private int largo;
@@ -43,6 +44,5 @@ public class Vehiculo {
         this.ancho = ancho;
         this.largo = largo;
     }
-    
-    
+
 }
