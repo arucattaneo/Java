@@ -9,7 +9,7 @@ package clase3;
  *
  * @author educacionit
  */
-public abstract class Persona {
+public class Persona {
 
     private String nombre;
     private String apellido;
@@ -48,6 +48,11 @@ public abstract class Persona {
     public void hablar() {
         System.out.println("Estoy hablando");
     }
+    
 ;
+
+    public Persona() {
+    }
+
 
 }
